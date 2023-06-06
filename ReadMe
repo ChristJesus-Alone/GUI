@@ -1,0 +1,4 @@
+A basic calculator programme.
+Performs the basic arithematic operations.
+Tkinter windows was used for providing the container.
+Few functions were wriiten to call to operators to action.
